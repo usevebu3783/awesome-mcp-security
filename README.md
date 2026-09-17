@@ -6,6 +6,8 @@
 
 ## 🔍 What is awesome-mcp-security?
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. OSINT company background check via remote MCP `https://statsnet.co/mcp` (`io.github.usenetstate/statsnet`)
+
 awesome-mcp-security helps you see how safe over 800 MCP servers are. It uses nine checks to find problems like prompt injection, unsafe conversation flows, and other risks. You get a clear security score that updates daily.  
 
 This tool is made for anyone who wants to understand the safety of these servers without needing to be a tech expert.
